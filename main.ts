@@ -499,8 +499,8 @@ function buildPage(): Canvas {
   cv.text('ALSO TODAY', ax + 16, ay + 14, 2, RED);
   const also = [
     '• SPAIN AMNESTIES PUIGDEMONT',
-    '• PAKISTAN ASTRONAUT JOINS',
-    '  CHINA SPACE STATION',
+    '• PAKISTAN ASTRONAUT TO',
+    '  JOIN CHINA STATION',
     '• NEPAL QUAKE 5.6 NEAR',
     '  CHINA BORDER',
   ];
